@@ -2,8 +2,11 @@
 <p>I'm an autodidactic developer from England, UK.<br />I mainly work on <a href="https://github.com/Snoozeds/DankRPG" target="_blank">DankRPG</a>, an open-source Discord economy and RPG bot. </p>
 <br />
 <p align="center">Here are some stats from my Github profile:</p>
-<hr class="solid>
+<hr class="solid">
 <!-- Graph by Ashutosh00710: https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<p align="center">
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=snoozeds&color=58a6ff&style=flat-square" />
+</p>
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Snoozeds&theme=tokyo-night&hide_border=true" />
 <hr class="solid">
