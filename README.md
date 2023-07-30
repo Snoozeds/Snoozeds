@@ -15,5 +15,5 @@
 <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Snoozeds&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=4c8ed9&text_color=58a6ff&icon_color=58a6ff&cache_seconds=1800" />
 <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Snoozeds&hide_border=true&background=00000000&theme=github-dark-blue&date_format=M%20j%5B%2C%20Y%5D" />
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Snoozeds&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=4c8ed9&text_color=58a6ff&icon_color=58a6ff&hide_border=true&cache_seconds=1800&langs_count=8" />
-<img width="500px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snoozeds&layout=compact&bg_color=00000000&hide_border=true&title_color=4c8ed9&text_color=58a6ff&custom_title=Wakatime%20Stats%20(since%2029/07/23)" />
+<img width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=Snoozeds&layout=compact&bg_color=00000000&hide_border=true&title_color=4c8ed9&text_color=58a6ff&custom_title=Wakatime%20Stats%20(since%2029/07/23)" />
 </p>
