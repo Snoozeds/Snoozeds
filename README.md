@@ -1,7 +1,7 @@
 <h1> Hi, I'm Snoozeds. 👋</h1>
 <p>I'm an autodidactic developer from England, UK.<br />I mainly work on <a href="https://github.com/Snoozeds/DankRPG" target="_blank">DankRPG</a>, an open-source Discord economy and RPG bot. </p>
 <br />
-<p align="center">Here are some stats from my Github profile:</p>
+<p align="center">Here are some stats about me:</p>
 <hr class="solid">
 <!-- Graph by Ashutosh00710: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <p align="center">
