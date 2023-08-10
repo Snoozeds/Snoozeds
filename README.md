@@ -5,9 +5,6 @@
 <hr class="solid">
 <!-- Graph by Ashutosh00710: https://github.com/Ashutosh00710/github-readme-activity-graph -->
 <p align="center">
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=snoozeds&color=58a6ff&style=flat-square" />
-</p>
-<p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Snoozeds&theme=tokyo-night&hide_border=true" />
 <hr class="solid">
 </p>
