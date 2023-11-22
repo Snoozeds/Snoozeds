@@ -1,5 +1,7 @@
 <h1> Hi, I'm Snoozeds. 👋</h1>
-<p>I'm an autodidactic developer from England, UK.<br />I mainly work on <a href="https://github.com/Snoozeds/DankRPG" target="_blank">DankRPG</a>, an open-source Discord economy and RPG bot. </p>
+<p>I'm an autodidactic developer from England, UK.<br /><br/>
+I mainly work on <a href="https://github.com/snoozeds/yanta" target="_blank">Yanta</a>, a simple note-taking app built using C# and Gtk, primarily built for Linux.<br />
+I <b>used to</b> work on <a href="https://github.com/Snoozeds/DankRPG" target="_blank">DankRPG</a>, an open-source Discord economy and RPG bot. </p>
 <br />
 <p align="center">Here are some stats about me:</p>
 <hr class="solid">
