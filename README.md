@@ -1,5 +1,5 @@
 <h1> Hi, I'm Snoozeds. 👋</h1>
-<p>I'm an autodidactic developer from England, UK.<br /><br/>
+<p>I'm an autodidact developer from England, UK.<br /><br/>
 I mainly work on <a href="https://github.com/snoozeds/UnrealLocresEditor" target="_blank">UnrealLocresEditor</a>, an GUI application that allows the user to modify an Unreal Engine game's localisation files.<br />
 I <b>used to</b> work on <a href="https://github.com/Snoozeds/DankRPG" target="_blank">DankRPG</a>, an open-source Discord economy and RPG bot. </p>
 You may see my other projects and more info about me on my <a href="https://snoozeds.com" target="_blank">website</a>
