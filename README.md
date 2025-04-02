@@ -5,6 +5,10 @@ I also work on <a href="https://github.com/Snoozeds/PD3AudioModder" target="_bla
 You may see my other projects and more info about me on my <a href="https://snoozeds.com" target="_blank">website</a>
 <br />
 <br />
+<p>You may also donate to my ko-fi if you like what I do.</p>
+<a href='https://ko-fi.com/Snoozeds' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
+<br />
+<br />
 <p align="center">Here are some stats about me:</p>
 <hr class="solid">
 <div align="center">
