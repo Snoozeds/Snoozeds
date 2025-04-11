@@ -12,10 +12,12 @@ You may see my other projects and more info about me on my <a href="https://snoo
 <p align="center">Here are some stats about me:</p>
 <hr class="solid">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unrealengine,godot,cs,js,ts,html,css,python"/>
+  <img src="https://skillicons.dev/icons?i=unrealengine,godot,cs,js,python,visualstudio,vscode,blender,nodejs,ps&theme=dark&perline=5"/>
 </div>
 </p>
 <p align="center">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=Snoozeds&show_icons=true&hide_border=true&count_private=true&bg_color=00000000&title_color=4c8ed9&text_color=58a6ff&icon_color=58a6ff&cache_seconds=1800" />
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Snoozeds&show_icons=true&locale=en&layout=compact&bg_color=00000000&title_color=4c8ed9&text_color=58a6ff&icon_color=58a6ff&hide_border=true&cache_seconds=1800&langs_count=8" />
+<img width="400px" src="https://github-stats-git-main-snoozeds-projects.vercel.app/api?username=snoozeds&include_all_commits=true&hide=issues,contribs&theme=midnight-purple&count_private=true&show_icons=true" />
+</p>
+<p align="center">
+  <img width="400px" src="https://github-stats-git-main-snoozeds-projects.vercel.app/api/top-langs?username=Snoozeds&show_icons=true&locale=en&layout=compact&hide_border=false&cache_seconds=1800&langs_count=8&theme=midnight-purple" />
 </p>
