@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is Valerie and I'm a self-taught developer & programmer from England, UK.</h2>
+<h2 align="center">Hi 👋!<br>
+My name is Valerie and I'm a self-taught developer & programmer from England, UK.</h2>
 
 ###
 
