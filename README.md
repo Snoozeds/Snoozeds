@@ -1,5 +1,5 @@
 <h1> Hi, I'm Snoozeds (she/her). 👋</h1>
-<p>I'm an autodidact developer from England, UK.<br /><br/>
+<p>I'm a solo, self-educated developer & programmer from England, UK.<br /><br/>
 I mainly work on <a href="https://github.com/Snoozeds/PD3AudioModder" target="_blank">PD3AudioModder</a>, a GUI application that makes modding audio files for PAYDAY 3 a breeze. <br />
 I also work on <a href="https://github.com/snoozeds/UnrealLocresEditor" target="_blank">UnrealLocresEditor</a>, a GUI application that allows the user to modify an Unreal Engine game's localisation files.<br />
 I am currently working on a Godot 4 game, which may see the light of day at some point. </p>
