@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img align="right" height="200" src="https://snoozeds.com/assets/profile.png"  />
+  <img height="200" src="https://snoozeds.com/assets/profile.png"  />
 </div>
 
 ###
