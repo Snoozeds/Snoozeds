@@ -1,35 +1,94 @@
-<h1> Hi, I'm Snoozeds (she/her) 👋</h1>
+<h2 align="left">Hi 👋! My name is Valerie and I'm a developer & programmer from England, UK.</h2>
 
-<p>
-  <a href="https://blinkies.cafe/">
-    <img src="trains.gif">
-  </a> 
-  <br/>
-  <a href="https://blinkies.cafe/">
-    <img src="autism.gif"
-      </a>
-  </p>
+###
 
-<p>I'm a solo, self-educated developer & programmer from England, UK.<br /><br/>
-I mainly work on <a href="https://github.com/Snoozeds/PD3AudioModder" target="_blank">PD3AudioModder</a>, a GUI application that makes modding audio files for PAYDAY 3 a breeze. <br />
-I also work on <a href="https://github.com/snoozeds/UnrealLocresEditor" target="_blank">UnrealLocresEditor</a>, a GUI application that allows the user to modify an Unreal Engine game's localisation files.<br />
-I am currently working on a Godot 4 game, which may see the light of day at some point. </p>
-You may see my other projects and more info about me on my <a href="https://snoozeds.com" target="_blank">website</a>.
-<br />
-<br />
-<p>You may also donate to my ko-fi if you like what I do.</p>
-<a href='https://ko-fi.com/Snoozeds' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com'/></a>
-<br />
-<br />
-<p align="center">Here are some stats about me:</p>
-<hr class="solid">
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unrealengine,godot,cs,js,python,visualstudio,vscode,blender,nodejs,ps&theme=dark&perline=5"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Snoozeds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=Snoozeds&locale=en&mode=daily&theme=material-palenight&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Snoozeds&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="150" alt="languages graph"  />
 </div>
-</p>
-<p align="center">
-<img width="400px" src="https://github-stats-git-main-snoozeds-projects.vercel.app/api?username=snoozeds&include_all_commits=true&hide=issues,contribs&theme=midnight-purple&count_private=true&show_icons=true" />
-</p>
-<p align="center">
-  <img width="400px" src="https://github-stats-git-main-snoozeds-projects.vercel.app/api/top-langs?username=Snoozeds&show_icons=true&locale=en&layout=compact&hide_border=false&cache_seconds=1800&langs_count=8&theme=midnight-purple" />
-</p>
+
+###
+
+<div align="center">
+  <img height="50" src="trains.gif"  />
+  <img height="50" src="autism.gif"  />
+</div>
+
+###
+<hr>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/@Snoozeds" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://x.com/snoozeds" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+  <a href="https://ko-fi.com/snoozeds" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
+  </a>
+  <a href="https://patreon.com/snoozeds" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
+  </a>
+</div>
+
+###
+
+<img align="right" height="200" src="https://snoozeds.com/assets/profile.png"  />
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Snoozeds/Snoozeds/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Snoozeds/Snoozeds/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Snoozeds/Snoozeds/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<p align="left">Profile views</p>
+
+###
+
+<img align="left" src="https://profile-counter.glitch.me/Snoozeds/count.svg?"  />
+
+###
