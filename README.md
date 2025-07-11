@@ -75,15 +75,3 @@ My name is Valerie and I'm a self-taught developer & programmer from England, UK
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Snoozeds/Snoozeds/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Snoozeds/Snoozeds/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<p align="center">Profile views</p>
-
-###
-
-<div align="center">
-<img src="https://profile-counter.glitch.me/Snoozeds/count.svg?"  />
-</div>
-
-###
