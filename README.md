@@ -45,14 +45,14 @@ My name is Valerie and I'm a self-taught developer & programmer from England, UK
 ###
 
 <div align="center">
+  <a href="https://snoozeds.com" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/website-6b21a8.svg?logo=globe&logoSource=feather" height="35" alt="website badge"  /></a>
   <a href="https://www.youtube.com/@Snoozeds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  /></a>
+    <img src="https://custom-icon-badges.demolab.com/badge/youtube-brown.svg?logo=youtube&logoSource=feather" height="35" alt="youtube badge"  /></a>
   <a href="https://x.com/snoozeds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  /></a>
-  <a href="https://ko-fi.com/snoozeds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  /></a>
-  <a href="https://patreon.com/snoozeds" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  /></a>
+    <img src="https://custom-icon-badges.demolab.com/badge/twitter-1DA1F2.svg?logo=twitter&logoSource=feather" height="35" alt="twitter badge"  /></a>
+  <a href="https://snoozeds.com/support" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/support%20me-D15E9B.svg?logo=heart" height="35" alt="support me badge"  >
 </div>
 
 ###
