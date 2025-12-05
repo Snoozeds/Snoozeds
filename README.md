@@ -1,14 +1,15 @@
 <h2 align="center">Hi 👋!<br>
 My name is Valerie and I'm a self-taught developer & programmer from England, UK.</h2>
 
-###
-
 <div align="center">
-  <img height="50" src="trains.gif"  />
-  <img height="50" src="autism.gif"  />
+<p>Currently, my main projects and best work are:</p>
+<ul>
+  <li><a href="https://github.com/Snoozeds/UnrealLocresEditor">UnrealLocresEditor</a> - A GUI Application for editing Unreal Engine locres files.</li>
+  <li><a href="https://github.com/Snoozeds/PD3AudioModder">PD3AudioModder</a> - A small program for editing PAYDAY 3's audio files.</li>
+  <li><a href="https://github.com/Snoozeds/SoDTools">SoDTools</a> - A website that lets users view information about their Shadows of Doubt city.</li>
+</ul>
+<hr>
 </div>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Snoozeds&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="150" alt="stats graph"  />
