@@ -9,6 +9,7 @@ My name is Valerie and I'm a self-taught developer & programmer from England, UK
   <li><a href="https://github.com/Snoozeds/SoDTools">SoDTools</a> - A website that lets users view information about their Shadows of Doubt city.</li>
 </ul>
 <hr>
+I am also working on making my own game in Godot, making the entire game by myself, including models, music, sound effects, and code.
 </div>
 
 <div align="center">
